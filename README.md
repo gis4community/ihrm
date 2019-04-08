@@ -10,3 +10,6 @@ Please read bellow a step by step guide for requirements:
 Go to [QGIS homepage](http://qgis.com/) 
 
 Click "Download Now" button
+
+# 2. Verify if QGIS works by opening it
+If everithing works as expected until now let's install a usefull extension
