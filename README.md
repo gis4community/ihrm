@@ -8,4 +8,5 @@ Please read bellow a step by step guide for requirements:
 
 # 1. Download free and open source QGIS software
 Go to [QGIS homepage](http://qgis.com/) 
+
 Click "Download Now" button
