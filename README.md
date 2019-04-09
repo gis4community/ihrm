@@ -34,4 +34,4 @@ After installation the new menu appears in QGIS
 
 ![new project](https://github.com/gis4community/ihrm/blob/master/img/new_project.PNG)
 
-** Now since we have a new peokject configured is time to get data in your computer 
+**Now since we have a new peokject configured is time to get data in your computer** 
