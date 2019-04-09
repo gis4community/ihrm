@@ -39,8 +39,11 @@ After installation the new menu appears in QGIS
 # 4. Download data locally in your computer
 
    ###### Go to [https://github.com/gis4community/ihrm](https://github.com/gis4community/ihrm)
-   ###### Click the button "Clone or download" --> "Download ZIP"
+   ###### Click the green button "Clone or download" --> "Download ZIP"
    
    ![download](img/download.PNG)
    
-   
+ ###### Save the ZIP data in any location in your pc
+ ###### Unzip data
+ 
+ # 5. Adding data to project map
