@@ -75,4 +75,8 @@ After adding Google Maps in your map project, the result would looks like this:
 
 ###### !Observation: **Repeat last step and try to add different base maps**
  
+ # 7. Change the symbol of layers
  
+ ###### Select first layer. Click mouse right and select **Properties**
+ 
+ ![properties](img/properties.PNG)
