@@ -88,3 +88,7 @@ After adding Google Maps in your map project, the result would looks like this:
  ![color](img/color.PNG)
 
 ###### !Observation: **Repeat step 7 for all layers and color your map as you want**
+
+# 8. Edit data
+
+# 9. Print the Map
