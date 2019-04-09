@@ -80,3 +80,11 @@ After adding Google Maps in your map project, the result would looks like this:
  ###### Select first layer. Click mouse right and select **Properties**
  
  ![properties](img/properties.PNG)
+
+###### From the open window select Style tab
+###### From tab body select green bullet and press OK
+**The result would looks like this:**
+
+ ![color](img/color.PNG)
+
+###### !Observation: **Repeat step 7 for all layers and color your map as you want**
