@@ -22,3 +22,8 @@ If everithing works as expected until now let's install a usefull extension
 
  ![hcmgis](https://github.com/gis4community/ihrm/blob/master/img/hcmgis.PNG)
 ###### - Click the button "Install Plugin"
+
+After installation the new menu appears in QGIS
+
+![New  menu](https://github.com/gis4community/ihrm/blob/master/img/menu_hcmgis.PNG)
+
