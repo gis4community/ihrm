@@ -35,3 +35,12 @@ After installation the new menu appears in QGIS
 ![new project](https://github.com/gis4community/ihrm/blob/master/img/new_project.PNG)
 
 **Now since we have a new peokject configured is time to get data in your computer** 
+
+# 4. Download data locally in your computer
+
+   ###### Go to [https://github.com/gis4community/ihrm](https://github.com/gis4community/ihrm)
+   ###### Click the button "Clone or download" --> "Download ZIP"
+   
+   ![download](img/download.PNG)
+   
+   
