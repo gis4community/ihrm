@@ -18,6 +18,6 @@ If everithing works as expected until now let's install a usefull extension
  
  ![Plugin menu](https://github.com/gis4community/ihrm/blob/master/img/plugin.PNG)
 
-##- In Plugin window tipe **CMGIS**
+##- In Plugin window tipe **HCMGIS**
 
  ![hcmgis](https://github.com/gis4community/ihrm/blob/master/img/hcmgis.PNG)
