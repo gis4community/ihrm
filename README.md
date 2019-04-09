@@ -14,10 +14,11 @@ Click "Download Now" button
 # 2. Verify if QGIS works by opening it
 If everithing works as expected until now let's install a usefull extension
 
- ##- In QGIS go to menu Plugins --> Manage and Install Plugins..
+ ## - In QGIS go to menu Plugins --> Manage and Install Plugins..
  
  ![Plugin menu](https://github.com/gis4community/ihrm/blob/master/img/plugin.PNG)
 
-##- In Plugin window tipe **HCMGIS**
+## - In Plugin window tipe **HCMGIS**
 
  ![hcmgis](https://github.com/gis4community/ihrm/blob/master/img/hcmgis.PNG)
+## - Click the button "Install Plugin"
