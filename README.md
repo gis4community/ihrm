@@ -15,4 +15,5 @@ Click "Download Now" button
 If everithing works as expected until now let's install a usefull extension
 
  - In QGIS go to menu Plugins --> Manage and Install Plugins..
+ 
  ![Plugin menu](https://github.com/gis4community/ihrm/blob/master/img/plugin.PNG)
