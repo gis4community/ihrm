@@ -59,12 +59,20 @@ After installation the new menu appears in QGIS
 
 ###### !Observation: **Repeat step 5 for all datasets**
 
-After adding all datasets in your map project, the result sould look like this:
+After adding all datasets in your map project, the result would looks like this:
 
 ![add_layer](img/map.png)
 
+# 6. Add Google Maps base layer
 
+###### Go to menu **HCMGIS--> BaseMap --> Google Maps**
 
+![add_layer](img/google.PNG)
 
+After adding Google Maps in your map project, the result would looks like this:
+
+![add_layer](img/google_map.png)
+
+###### !Observation: **Repeat last step and try to add different base maps**
  
  
