@@ -38,16 +38,6 @@ After installation the new menu appears in QGIS
 
 # 4. Download data locally in your computer
 
-###### Go to menu **Layer --> Add Layer --> Add Vector Layer...**
-
-![add_layer](https://github.com/gis4community/ihrm/blob/master/img/add_layer.PNG)
-
-**Navigate to your saved data folder**
-###### Select **buss_stations.geojson** dataset
-######!Observation: **Repeat step 4 for all datasets**
-
-
-
    ###### Go to [https://github.com/gis4community/ihrm](https://github.com/gis4community/ihrm)
    ###### Click the green button "Clone or download" --> "Download ZIP"
    
@@ -57,3 +47,16 @@ After installation the new menu appears in QGIS
  ###### Unzip data
  
  # 5. Add data in project map
+
+###### Go to menu **Layer --> Add Layer --> Add Vector Layer...**
+
+![add_layer](img/add_layer.PNG)
+
+**Navigate to your saved data folder**
+###### Select **buss_stations.geojson** dataset
+######!Observation: **Repeat step 5 for all datasets**
+
+
+
+ 
+ 
