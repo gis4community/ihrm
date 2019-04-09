@@ -46,4 +46,4 @@ After installation the new menu appears in QGIS
  ###### Save the ZIP data in any location in your pc
  ###### Unzip data
  
- # 5. Adding data to project map
+ # 5. Add data in project map
