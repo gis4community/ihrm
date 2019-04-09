@@ -21,9 +21,17 @@ If everithing works as expected until now let's install a usefull extension
 ###### - In Plugin window tipe **HCMGIS**
 
  ![hcmgis](https://github.com/gis4community/ihrm/blob/master/img/hcmgis.PNG)
+ 
 ###### - Click the button "Install Plugin"
 
 After installation the new menu appears in QGIS
 
 ![New  menu](https://github.com/gis4community/ihrm/blob/master/img/menu_hcmgis.PNG)
 
+# 3. Create new map project
+
+###### Go to menu Project --> and click New
+
+![new project](https://github.com/gis4community/ihrm/blob/master/img/new_project.PNG)
+
+**Now since we have a new peokject configured is time to get data in your computer 
