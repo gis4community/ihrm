@@ -71,7 +71,7 @@ After adding all datasets in your map project, the result would looks like this:
 
 After adding Google Maps in your map project, the result would looks like this:
 
-![add_layer](img/google_map.png)
+![add_layer](img/google_map.PNG)
 
 ###### !Observation: **Repeat last step and try to add different base maps**
  
