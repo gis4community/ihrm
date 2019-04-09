@@ -54,7 +54,15 @@ After installation the new menu appears in QGIS
 
 **Navigate to your saved data folder**
 ###### Select **buss_stations.geojson** dataset
-######!Observation: **Repeat step 5 for all datasets**
+
+![add_layer](img/add.PNG)
+
+###### !Observation: **Repeat step 5 for all datasets**
+
+After adding all datasets in your map project, the result sould look like this:
+
+![add_layer](img/map.png)
+
 
 
 
