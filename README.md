@@ -11,7 +11,7 @@ Go to [QGIS homepage](http://qgis.com/)
 
 Click "Download Now" button
 
-** Install the software as normal**
+**Install the software as normal**
 
 # 2. Verify if QGIS works by opening it
 If everithing works as expected until now let's install a usefull extension
