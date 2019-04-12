@@ -6,6 +6,9 @@ Each set of data wold be used on practical exercises for managing digital maps c
 
 Please read bellow a step by step guide for requirements:
 
+Visit the GeoMap at [https://gis4community.github.io/ihrm/](https://gis4community.github.io/ihrm/) 
+
+
 # 1. Download free and open source QGIS software
 Go to [QGIS homepage](http://qgis.com/) 
 
