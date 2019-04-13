@@ -64,7 +64,7 @@ var map = new ol.Map({
     overlays: [overlayPopup],
     layers: layersList,
     view: new ol.View({
-         maxZoom: 28, minZoom: 1
+         maxZoom: 28, minZoom: 7
     })
 });
 
@@ -72,7 +72,7 @@ var layerSwitcher = new ol.control.LayerSwitcher({tipLabel: "Layers"});
 map.addControl(layerSwitcher);
 
 map.getView().fit([-20037508.342789, -20037508.342789, 20037508.342789, 20037508.342789], map.getSize());
-
+map.getView().setCenter(ol.proj.fromLonLat([21.22,45.75]));
 var NO_POPUP = 0
 var ALL_FIELDS = 1
 
